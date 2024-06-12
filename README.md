@@ -2,11 +2,11 @@
 
 "Bad Apple!!" displayed on a 20x4 character LCD at 7.5fps, using an ESP32-S3 microcontroller and an SD card.
 
-### Video
+## Video
 
 (tbd)
 
-### How it was made
+## How it was made
 
 Character LCDs have the capability of showing up to 8 different user-defined characters, which is a good number, though
 it is obviously not enough to display a single 8 cols x 4 rows frame (this requires 32 custom characters!). However,
