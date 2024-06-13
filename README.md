@@ -2,9 +2,9 @@
 
 "Bad Apple!!" displayed on a 20x4 character LCD at 7.5fps, using an ESP32-S3 microcontroller and an SD card.
 
-## Video
+## Video demonstration
 
-(tbd)
+[![Video demonstration youtube link](https://img.youtube.com/vi/1qkPiyD7dIM/0.jpg)](https://www.youtube.com/watch?v=1qkPiyD7dIM)
 
 ## How it was made
 
